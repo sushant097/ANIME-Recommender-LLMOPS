@@ -1,0 +1,9 @@
+.env
+.DS_STORE
+__pycache__
+.ipynb_checkpoints
+.vscode
+venv/
+*.pyc
+logs/
+Anime_Recommender.egg-info/
